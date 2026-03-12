@@ -1,6 +1,6 @@
 ## Hi there, I'm Henry Z 👋
 <p float="left">
-  <img style="height: 150px" src="https://github-readme-stats.vercel.app/api?username=HenryZNNUE&hide_border=true&show_icons=true&theme=tokyonight" />
+  <img style="height: 150px" src="https://github-readme-stats.vercel.app/api?username=HenryZDev&hide_border=true&show_icons=true&theme=tokyonight" />
   <a href="https://github.com/DenverCoder1/github-readme-streak-stats">
   <img style="height: 150px; width: 381px"; src="https://github-readme-streak-stats-eight.vercel.app/?user=comus3&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
 </a>
