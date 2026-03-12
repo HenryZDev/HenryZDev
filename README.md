@@ -2,9 +2,9 @@
 <p float="left">
   <img style="height: 150px" src="https://github-readme-stats.vercel.app/api?username=HenryZDev&hide_border=true&show_icons=true&theme=tokyonight" />
   <a href="https://github.com/DenverCoder1/github-readme-streak-stats">
-  <img style="height: 150px; width: 381px"; src="https://github-readme-streak-stats-eight.vercel.app/?user=comus3&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
+  <img style="height: 150px; width: 381px"; src="https://github-readme-streak-stats-eight.vercel.app/?user=HenryZDev&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
 </a>
-  <img style="height: 150px" src="https://github-readme-stats.vercel.app/api/top-langs?username=HenryZNNUE&layout=compact&theme=tokyonight&hide_border=true&card_width=818" />
+  <img style="height: 150px" src="https://github-readme-stats.vercel.app/api/top-langs?username=HenryZDev&layout=compact&theme=tokyonight&hide_border=true&card_width=818" />
 </p>
 
 <!--
